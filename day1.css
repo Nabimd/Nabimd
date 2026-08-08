@@ -1,0 +1,15 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+h1
+{
+    color:red;background-color: blue;
+}
+p
+{
+    color:orange;background-color: green;
+    
+}
