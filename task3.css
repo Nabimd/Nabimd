@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightgreen;
+    
+}
+
+.container2
+{   float:left;
+    flex-basis: 30%;
+    background-image:url(./img/allepey.jpg);
+    margin:40px 70px 0px ;
+    border: 3px solid navy;
+    border-radius: 10px;
+    width:300px;
+    height:250px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;; 
+}
+.container3
+{   float:left;
+    flex-basis: 30%;
+    background-image:url(./img/athirapally.jpg);
+    margin:40px 70px 0px ;
+    border: 3px solid navy;
+    border-radius: 10px;
+    width:300px;
+    height:250px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;; 
+}
+.container4
+{   float:left;
+    flex-basis: 30%;
+    background-image:url(./img/kochi.jpg);
+    margin:40px 70px 0px ;
+    border: 3px solid navy;
+    border-radius: 10px;
+    width:300px;
+    height:250px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;; 
+}
+.container5
+{   float:left;
+    flex-basis: 30%;
+    background-image:url(./img/wayanad.jpg);
+    margin:40px 70px 0px ;
+    border: 3px solid navy;
+    border-radius: 10px;
+    width:300px;
+    height:250px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;; 
+}
+.container6
+{   float:left;
+    flex-basis: 30%;
+    background-image:url(./img/varkala.jpg);
+    margin:40px 70px 0px ;
+    border: 3px solid navy;
+    border-radius: 10px;
+    width:300px;
+    height:250px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;; 
+}
+.container7
+{   float:left;
+    flex-basis: 30%;
+    background-image:url(./img/munnar.jpg);
+    margin:40px 70px 0px ;
+    border: 3px solid navy;
+    border-radius: 10px;
+    width:300px;
+    height:250px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;; 
+}
+h3
+{
+    background-color:green;
+    border-radius: 5px;
+    height:40px;
+    padding:10px;
+    color:white
+}
+.para1{
+    font-weight:bold;
+    padding:10px;
+}
+a{ 
+    text-decoration:none;
+    color:blue;
+    background-color:white;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+}
+a:hover{
+    background-color:goldenrod;
+}
+.para2{
+    background-color:green;
+    color:white;
+    padding-top:15px;
+     height:40px;
+     margin-top:7px;
+    
+}
+.para3{
+    background-color:green;
+    color:white;
+    padding-top:10px;
+}

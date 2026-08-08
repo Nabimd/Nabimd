@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container2
+{
+    width: 450px;
+    height: 70px;
+    border: 1px solid black;
+    margin:5px;
+}
+.para1
+{
+    margin-right: 315px;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+.para2
+{
+    margin-left: 5px;
+    margin-top: 10px;
+    font-size: 10px;
+    text-align:left;
+}
+.para3
+{
+    margin-right: 370px;
+    margin-top: 10px;
+    font-size: 10px;
+}
+.css1
+{
+    width: 70px;
+    height: 68px;
+    float: right;
+}
